@@ -42,7 +42,7 @@ Vercel (Deployment)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Nikhil-sys410/personal-portfolio.git
 
 Install dependencies:
 
